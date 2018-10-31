@@ -13,7 +13,7 @@
 
 Name:		timidity-patch-merlingm
 Version:	32
-Release:	1
+Release:	2
 Summary:	Patch set for MIDI audio synthesis
 Group:		Sound
 License:	Public Domain
