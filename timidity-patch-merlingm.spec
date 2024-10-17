@@ -17,7 +17,7 @@ Release:	3
 Summary:	Patch set for MIDI audio synthesis
 Group:		Sound
 License:	Public Domain
-URL:		http://www.soundfonts.gonet.biz/search.php?name=Merlin%20GM%20v32&grupo=0&goto=1
+URL:		https://www.soundfonts.gonet.biz/search.php?name=Merlin%20GM%20v32&grupo=0&goto=1
 Source0:	http://www.soundfonts.gonet.biz/download2.php?rec=78&arq=./sf2/merlin_gmv32.sfArk
 BuildArch:	noarch
 Provides:	timidity-instruments = %{patch_pkg_version}
